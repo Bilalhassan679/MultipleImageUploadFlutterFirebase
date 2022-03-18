@@ -80,10 +80,12 @@ class _UploadMultipleImageState extends State<UploadMultipleImage> {
     return Center(
       child: Column(
         children: [
-          Text("Uploading : " +
-              uploadItem.toString() +
-              "/" +
-              _selectedFiles.length.toString()),
+          Text(
+            "Uploading : " +
+                uploadItem.toString() +
+                "/" +
+                _selectedFiles.length.toString(),
+          ),
           SizedBox(height: 30),
           CircularProgressIndicator()
         ],
