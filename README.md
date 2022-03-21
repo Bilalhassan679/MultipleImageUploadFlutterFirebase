@@ -1,16 +1,15 @@
 # uploadmultipledevman
 
-A new Flutter project.
 
-## Getting Started
+This is a link
+https://www.youtube.com/watch?v=MjdBPAHzG98
+21-3-21 (video date) 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IN this Git 
+Upload Multiple images in firebase And get Link from it.
+Four Packages use in tutorial
+  get:
+  cloud_firestore: ^3.1.9
+  firebase_storage: ^10.2.8
+  image_picker: ^0.8.2
